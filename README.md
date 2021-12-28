@@ -1,2 +1,2 @@
 # SimpleSmsSpamFilter
-simple sms filter python program.(unfinneshed)
+simple sms filter python program.(unfinished)
